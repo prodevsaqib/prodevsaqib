@@ -1,2 +1,1 @@
-Professional Full Stack developer with 5 year experience in PHP with its frameworks. Interested in PHP programming like custom PHP, Laravel, Codeigniter and WordPress.
-Currently working on WordPress and Laravel to explore more and more.
+Senior WordPress developer with 5+ years of experience in WordPress development like theme and plugin development. Work on custom themes and plugins as well as existing themes/plugins to modify or upgrade their functionality. Love to work with custom modules from scratch to prepare best product.
